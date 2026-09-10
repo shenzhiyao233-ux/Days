@@ -1,0 +1,2 @@
+-keep class androidx.glance.appwidget.** { *; }
+-keep class com.shenzhiyao.days.widget.** { *; }
